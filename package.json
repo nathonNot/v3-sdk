@@ -1,5 +1,5 @@
 {
-  "name": "@uniswap/v3-sdk",
+  "name": "@nathan2024/up-v3-sdk",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
@@ -11,10 +11,11 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/uniswap-v3-sdk.git",
+  "repository": "https://github.com/nathonNot/v3-sdk.git",
   "keywords": [
     "uniswap",
-    "ethereum"
+    "ethereum",
+    "nathan"
   ],
   "module": "dist/v3-sdk.esm.js",
   "scripts": {
@@ -26,7 +27,7 @@
   "dependencies": {
     "@ethersproject/abi": "^5.0.12",
     "@ethersproject/solidity": "^5.0.9",
-    "@uniswap/sdk-core": "^4.2.0",
+    "@nathan2024/up-sdk-core": "^4.2.0",
     "@uniswap/swap-router-contracts": "^1.2.1",
     "@uniswap/v3-periphery": "^1.1.1",
     "@uniswap/v3-staker": "1.0.0",
